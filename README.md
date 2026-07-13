@@ -1,4 +1,4 @@
-# i was gone for 2 months because i got flagged
+
 # im thinking miku miku ooo eee ooo
 coding languages: javascript, CSS, html, python, HBS, C++ and C#
 
