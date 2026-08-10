@@ -1,9 +1,13 @@
 hs.ypp
 
 full stack dev
-i know coding lanuages
+
+i know many coding lanuages
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=cfm-miku-en)](https://github.com/stats-organization/github-stats-extended)
+
 I do cool things
+
 
 System Admin, Hosting Provider, Developer - Delta!Lazer
 July 15, 2026 - now
