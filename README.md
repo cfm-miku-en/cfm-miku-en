@@ -2,7 +2,7 @@ hs.ypp
 
 full stack dev
 
-i know many coding lanuages
+i know many coding languages
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=cfm-miku-en)](https://github.com/stats-organization/github-stats-extended)
 
